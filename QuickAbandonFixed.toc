@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: Quick Abandon Fixed
+## Version: 1.0.3
+## Author: SirJ0K3R
+## Notes: Quickly abandon quests by pressing them while holding Alt
+## IconTexture: Interface\AddOns\QuickAbandonFixed\Resources\QuickAbandonFixed-32.tga
+
+QuickAbandonFixed.lua
