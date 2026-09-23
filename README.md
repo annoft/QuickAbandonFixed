@@ -18,14 +18,6 @@ The addon calls Blizzard's quest-log abandonment API directly. It intentionally 
 
 Place the `QuickAbandonFixed` folder in the Retail `Interface/AddOns` directory. It must contain `QuickAbandonFixed.toc`, `QuickAbandonFixed.lua`, and the `Resources` folder.
 
-In the WoWDev workspace, development and deployment use separate directories:
-
-```text
-addons/QuickAbandonFixed   # Git development source
-deploy/QuickAbandonFixed   # Runtime package
-AddOns/QuickAbandonFixed   # Junction to the deployment package
-```
-
 After installing or updating, run `/reload` in game.
 
 ## Compatibility
